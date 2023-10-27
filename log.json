@@ -1,0 +1,329 @@
+{
+    "log": [
+        {
+            "date": "2023-01-20",
+            "finalBoard": {
+                "box11": "X",
+                "box12": null,
+                "box13": "O",
+                "box21": "O",
+                "box22": null,
+                "box31": "X",
+                "box32": "X",
+                "box33": "X"
+            },
+            "gameMode": "1",
+            "players": [
+                {
+                    "name": "aran",
+                    "mark": "X"
+                },
+                {
+                    "name": "guti",
+                    "mark": "O"
+                }
+            ],
+            "winner": "X"
+        },
+        {
+            "date": "2023-01-20",
+            "finalBoard": {
+                "box11": "O",
+                "box12": "X",
+                "box13": "X",
+                "box21": "X",
+                "box22": "O",
+                "box31": "O",
+                "box32": "O",
+                "box33": "X"
+            },
+            "gameMode": "1",
+            "players": [
+                {
+                    "name": "aran",
+                    "mark": "O"
+                },
+                {
+                    "name": "guti",
+                    "mark": "X"
+                }
+            ],
+            "winner": "tie"
+        },
+        {
+            "date": "2023-01-20",
+            "finalBoard": {
+                "box11": "X",
+                "box12": "O",
+                "box13": null,
+                "box21": null,
+                "box22": null,
+                "box31": null,
+                "box32": "O",
+                "box33": "X"
+            },
+            "gameMode": "2",
+            "players": [
+                {
+                    "name": "aran",
+                    "mark": "X"
+                },
+                {
+                    "name": "IA1",
+                    "mark": "O"
+                }
+            ],
+            "winner": "X"
+        },
+        {
+            "date": "2023-01-20",
+            "finalBoard": {
+                "box11": "O",
+                "box12": "X",
+                "box13": "O",
+                "box21": "X",
+                "box22": "O",
+                "box31": "X",
+                "box32": "O",
+                "box33": "X"
+            },
+            "gameMode": "4",
+            "players": [
+                {
+                    "name": "aran",
+                    "mark": "X"
+                },
+                {
+                    "name": "IA3",
+                    "mark": "O"
+                }
+            ],
+            "winner": "tie"
+        },
+        {
+            "date": "2023-01-20",
+            "finalBoard": {
+                "box11": "O",
+                "box12": "X",
+                "box13": "O",
+                "box21": "O",
+                "box22": "X",
+                "box31": "X",
+                "box32": "O",
+                "box33": "X"
+            },
+            "gameMode": "3",
+            "players": [
+                {
+                    "name": "aran",
+                    "mark": "O"
+                },
+                {
+                    "name": "IA2",
+                    "mark": "X"
+                }
+            ],
+            "winner": "tie"
+        },
+        {
+            "date": "2023-01-20",
+            "finalBoard": {
+                "box11": "X",
+                "box12": "O",
+                "box13": null,
+                "box21": "X",
+                "box22": "O",
+                "box31": "O",
+                "box32": null,
+                "box33": "X"
+            },
+            "gameMode": "3",
+            "players": [
+                {
+                    "name": "aran",
+                    "mark": "X"
+                },
+                {
+                    "name": "IA2",
+                    "mark": "O"
+                }
+            ],
+            "winner": "X"
+        },
+        {
+            "date": "2023-01-20",
+            "finalBoard": {
+                "box11": "O",
+                "box12": "O",
+                "box13": "X",
+                "box21": "X",
+                "box22": "O",
+                "box31": "O",
+                "box32": "X",
+                "box33": "X"
+            },
+            "gameMode": "3",
+            "players": [
+                {
+                    "name": "aran",
+                    "mark": "X"
+                },
+                {
+                    "name": "IA2",
+                    "mark": "O"
+                }
+            ],
+            "winner": "tie"
+        },
+        {
+            "date": "2023-01-22",
+            "finalBoard": {
+                "box11": "X",
+                "box12": "X",
+                "box13": "O",
+                "box21": null,
+                "box22": "O",
+                "box31": null,
+                "box32": "O",
+                "box33": "X"
+            },
+            "gameMode": "2",
+            "players": [
+                {
+                    "name": "aran",
+                    "mark": "X"
+                },
+                {
+                    "name": "IA1",
+                    "mark": "O"
+                }
+            ],
+            "winner": "X"
+        },
+        {
+            "date": "2023-03-08",
+            "finalBoard": {
+                "box11": "X",
+                "box12": "X",
+                "box13": "O",
+                "box21": "O",
+                "box22": "X",
+                "box31": "X",
+                "box32": "X",
+                "box33": "O"
+            },
+            "gameMode": "4",
+            "players": [
+                {
+                    "name": "aran",
+                    "mark": "O"
+                },
+                {
+                    "name": "IA3",
+                    "mark": "X"
+                }
+            ],
+            "winner": "tie"
+        },
+        {
+            "date": "2023-06-11",
+            "finalBoard": {
+                "box11": "X",
+                "box12": "O",
+                "box13": "X",
+                "box21": "O",
+                "box22": "O",
+                "box31": null,
+                "box32": "X",
+                "box33": "X"
+            },
+            "gameMode": "1",
+            "players": [
+                {
+                    "name": "aran",
+                    "mark": "X"
+                },
+                {
+                    "name": "ivan",
+                    "mark": "O"
+                }
+            ],
+            "winner": "O"
+        },
+        {
+            "date": "2023-06-11",
+            "finalBoard": {
+                "box11": "X",
+                "box12": "X",
+                "box13": "O",
+                "box21": "O",
+                "box22": "X",
+                "box31": "X",
+                "box32": "X",
+                "box33": "O"
+            },
+            "gameMode": "4",
+            "players": [
+                {
+                    "name": "aran",
+                    "mark": "O"
+                },
+                {
+                    "name": "IA3",
+                    "mark": "X"
+                }
+            ],
+            "winner": "tie"
+        },
+        {
+            "date": "2023-07-19",
+            "finalBoard": {
+                "box11": "X",
+                "box12": "O",
+                "box13": "X",
+                "box21": "O",
+                "box22": "X",
+                "box31": "O",
+                "box32": "X",
+                "box33": "O"
+            },
+            "gameMode": "1",
+            "players": [
+                {
+                    "name": "aran",
+                    "mark": "O"
+                },
+                {
+                    "name": "mama",
+                    "mark": "X"
+                }
+            ],
+            "winner": "tie"
+        },
+        {
+            "date": "2023-07-19",
+            "finalBoard": {
+                "box11": "X",
+                "box12": "O",
+                "box13": "X",
+                "box21": "O",
+                "box22": "X",
+                "box31": "X",
+                "box32": "X",
+                "box33": "O"
+            },
+            "gameMode": "4",
+            "players": [
+                {
+                    "name": "aran",
+                    "mark": "X"
+                },
+                {
+                    "name": "IA3",
+                    "mark": "O"
+                }
+            ],
+            "winner": "tie"
+        }
+    ]
+}
