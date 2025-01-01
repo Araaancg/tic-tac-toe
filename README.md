@@ -1,5 +1,7 @@
 # Tic-Tac-Toe
 
+This repository corresponds to a final project for MSMK University Unit 1 - Porgramming in the Applied Computing and AI Professional Degree. The final grade was 'Distinction'.
+
 ## Overview
 
 This is a terminal-based **Tic-Tac-Toe** game implemented in Python. The game allows a user to play tic-tac-toe in multiple modes, including playing against another player or against a computer with varying difficulty levels. 
