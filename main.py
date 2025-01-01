@@ -1,17 +1,3 @@
-'''
-AB03-04 Arancha Carpintero Guardiola
-Grado: applied computing and artificial inteligence (clase de tardes)
-
-JUEGO TRES EN RAYA
-Modos de juego:
-- jugador vs jugador
-- jugador vs ia1 (ia tonta)
-- jugador vs ia2 (ia que tapa cuando vas a ganar)
-- jugador vs ia3 (ia que juega a ganar)
-
-Extras: registro de las partidas jugadas
-'''
-
 # Importaciones
 from funcs import * # archivo aparte de funciones
 from classes import Player, board # archivo aparte de clases y objetos
